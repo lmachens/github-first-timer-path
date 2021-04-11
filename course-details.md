@@ -1,1 +1,1 @@
-A collection of useful courses, videos and links for Git and GitHub first timer.
+A collection of useful courses, videos and links for Git and GitHub first-timers.
