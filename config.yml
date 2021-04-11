@@ -27,6 +27,10 @@ steps:
       Git.
     link: 'https://guides.github.com/introduction/git-handbook/'
   - course: githubtraining/communicating-using-markdown
+  - title: Connecting to GitHub with SSH
+    description: 'Using the SSH protocol, you can connect and authenticate to remote servers and services.'
+    link: >-
+      https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh
   - title: Getting a Git Repository
     description: 'If you want to get a copy of an existing Git repository, read this guide.'
     link: >-
