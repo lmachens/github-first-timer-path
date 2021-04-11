@@ -1,11 +1,12 @@
 title: github-first-timer
 description: A learning path for GitHub first-timer.
 steps:
-  - description: >-
+  - link: 'https://youtube.com/watch?v=w3jLJU7DT5E'
+    video: 'https://youtube.com/embed/w3jLJU7DT5E'
+    title: 'Video: What is GitHub?'
+    description: >-
       Someone told you to use Git and GitHub? Awesome! Let's find out what is
       GitHub in this short video.
-    title: 'Video: What is GitHub?'
-    video: 'https://www.youtube.com/watch?v=w3jLJU7DT5E'
   - link: 'https://guides.github.com/introduction/flow/'
     title: Understanding the GitHub flow
     description: >-
@@ -13,41 +14,29 @@ steps:
       and projects where deployments are made regularly. This guide explains how
       and why GitHub flow works.
   - title: What's a repository?
-    video: 'https://www.youtube.com/watch?v=UmX4kyB2wfg'
+    video: 'https://www.youtube.com/embed/UmX4kyB2wfg'
     description: >-
       In this video, you will learn how to find the key pages and features we
       will be using throughout this course.
-  - title: Introduction to GitHub
-    course: githubtraining/first-day-on-github
-    description: >-
-      From managing notifications to merging pull requests, GitHub Learning
-      Lab’s “Introduction to GitHub” course guides you through everything you
-      need to start contributing in less than an hour.
+    link: 'https://www.youtube.com/watch?v=UmX4kyB2wfg'
+  - course: githubtraining/first-day-on-github
   - title: Git Handbook
     description: >-
       By now you are probably wondering what a Git is and why it is important in
       writing code. Take a look at this short article on version control with
       Git.
     link: 'https://guides.github.com/introduction/git-handbook/'
-  - title: Communicating using Markdown
-    course: githubtraining/communicating-using-markdown
-    description: >-
-      GitHub is about more than code. It’s a platform for software
-      collaboration—and Markdown is one of the most important ways developers
-      can make their communication clear and organized in issues and pull
-      requests.
+  - course: githubtraining/communicating-using-markdown
   - title: Getting a Git Repository
     description: 'If you want to get a copy of an existing Git repository, read this guide.'
     link: >-
       https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository#_git_cloning
   - title: Git Push and Pull
-    video: 'https://www.youtube.com/watch?v=-uQHV9GOA0w'
+    video: 'https://www.youtube.com/embed/-uQHV9GOA0w'
     description: >-
       Working locally has an interesting challenge of keeping the remote and
       local repositories update. Git pull and git push are network commands to
       help.
-  - title: Managing merge conflicts
-    course: githubtraining/managing-merge-conflicts
-    description: >-
-      Merge conflicts are a normal part of working in Git. Learn why they happen
-      and how to resolve them with ease.
+    link: 'https://www.youtube.com/watch?v=-uQHV9GOA0w'
+  - course: githubtraining/managing-merge-conflicts
+    
