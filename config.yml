@@ -19,7 +19,7 @@ steps:
       In this video, you will learn how to find the key pages and features we
       will be using throughout this course.
     link: 'https://www.youtube.com/watch?v=UmX4kyB2wfg'
-  - course: githubtraining/first-day-on-github
+  - course: githubtraining/introduction-to-github
   - title: Git Handbook
     description: >-
       By now you are probably wondering what a Git is and why it is important in
@@ -28,7 +28,9 @@ steps:
     link: 'https://guides.github.com/introduction/git-handbook/'
   - course: githubtraining/communicating-using-markdown
   - title: Connecting to GitHub with SSH
-    description: 'Using the SSH protocol, you can connect and authenticate to remote servers and services.'
+    description: >-
+      Using the SSH protocol, you can connect and authenticate to remote servers
+      and services.
     link: >-
       https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh
   - title: Getting a Git Repository
@@ -43,4 +45,3 @@ steps:
       help.
     link: 'https://www.youtube.com/watch?v=-uQHV9GOA0w'
   - course: githubtraining/managing-merge-conflicts
-    
